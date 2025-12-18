@@ -9,7 +9,7 @@ if (currentHour < 6) {
   greetingText = "Good morning!";
 } else if (currentHour <= 17) {
   greetingText = "Good afternoon!";
-} else if (currentHour <= 22) {
+} else if (currentHour <= 21) {
   greetingText = "Good evening!";
 } else {
   greetingText = "Still awake?";
