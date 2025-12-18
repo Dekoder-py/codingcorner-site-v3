@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap");
 
 /* catppuccin macchiato colors */
 :root {
@@ -18,10 +18,51 @@ body {
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
-header, footer {
+body < :not(header):not(footer) /* select all children of body (excluding header and footer) */ {
+  flex: 1;
+  padding: 1rem;
+  max-width: 800px;
+  margin: 0 auto;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: clamp(1.5rem, 5vw, 2.5rem);
+  margin: 0.5em 0;
+}
+
+h2 {
+  font-size: clamp(1.2rem, 4vw, 2rem);
+  margin: 0.5em 0;
+}
+
+ul {
+  padding-left: 1.5rem;
+}
+
+/* Responsive font sizes */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+
+  header {
+    font-size: 1.1em;
+  }
+}
+
+header,
+footer {
   background-color: var(--ctp-surface-0);
+  padding: 1rem;
 }
 
 header {
