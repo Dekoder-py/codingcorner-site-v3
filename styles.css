@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
 /* catppuccin macchiato colors */
 :root {
   --ctp-base: #24273a;
@@ -12,11 +14,19 @@
 body {
   background-color: var(--ctp-base);
   color: var(--ctp-text);
-  font-family: sans-serif;
+  font-family: "JetBrains Mono", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
 }
 
-footer {
+header, footer {
   background-color: var(--ctp-surface-0);
+}
+
+header {
+  font-size: 1.3em;
+  font-weight: 600;
 }
 
 a {
