@@ -5,11 +5,10 @@
 - [x] Style main page
 - [x] Style Changelog page
 
-## v0.0.4 Poodle - Accessibility
+## v0.0.4 Poodle - Accessibility \[RELEASED\]
 
-- [ ] Fix accessibility issues
+- [x] Fix accessibility issues
   - [x] Add `<main>`, `<nav>`
-  - [ ] ARIA hidden for footer
   - [x] HTML lang element thing
 
 ## v0.0.5 Poodle - All the pages
