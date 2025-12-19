@@ -27,3 +27,8 @@
   - links to pages
   - link to blog
   - footer stuff too
+- [ ] 88x31 buttons
+- [ ] Fun stats somewhere 
+    - last.fm
+    - time in nz
+    - something else maybe
