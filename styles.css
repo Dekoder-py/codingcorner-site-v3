@@ -87,9 +87,8 @@ a:visited {
 .version-changelog {
   border-radius: 25px;
   border: 2px solid var(--ctp-lavender);
-  border-width: 1;
   background-color: var(--ctp-mantle);
-  margin: 8px;
+  margin: 20px;
   padding: 10px;
   box-shadow: 5px 5px 10px var(--ctp-crust);
 }
