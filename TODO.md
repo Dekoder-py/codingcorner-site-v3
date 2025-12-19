@@ -8,9 +8,9 @@
 ## v0.0.4 Poodle - Accessibility
 
 - [ ] Fix accessibility issues
-  - [ ] Add `<main>`, `<nav>`
+  - [x] Add `<main>`, `<nav>`
   - [ ] ARIA hidden for footer
-  - [ ] HTML lang element thing
+  - [x] HTML lang element thing
 
 ## v0.0.5 Poodle - All the pages
 
