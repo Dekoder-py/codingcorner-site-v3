@@ -91,4 +91,14 @@ a:visited {
   background-color: var(--ctp-mantle);
   margin: 8px;
   padding: 10px;
+  box-shadow: 5px 5px 10px var(--ctp-crust);
+}
+
+.about-me {
+  border-radius: 30px;
+  border: 2px solid var(--ctp-lavender);
+  background-color: var(--ctp-surface-0);
+  margin: 4px;
+  padding: 10px;
+  max-width: 50vw;
 }
