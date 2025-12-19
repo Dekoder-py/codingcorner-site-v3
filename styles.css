@@ -80,6 +80,11 @@ header {
   font-size: 1.3em;
   font-weight: 600;
   margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
 }
 
 footer {
