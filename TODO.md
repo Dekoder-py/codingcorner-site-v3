@@ -1,9 +1,9 @@
 # To Do
 
-## v0.0.3 Poodle - Styling
+## v0.0.3 Poodle - Styling \[RELEASED\]
 
-- [ ] Style main page
-- [ ] Style Changelog page
+- [x] Style main page
+- [x] Style Changelog page
 
 ## v0.0.4 Poodle - Accessibility
 
