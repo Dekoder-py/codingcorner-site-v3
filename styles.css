@@ -48,7 +48,8 @@ h2 {
 
 ul {
   padding-left: 1.5rem;
-  list-style-position: inside;
+  display: inline-block;
+  text-align: left;
 }
 
 /* Responsive font sizes */
