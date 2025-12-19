@@ -16,14 +16,14 @@
 
 - [ ] Projects page
 - [ ] Contact page
-    - monkeytype
-    - last.fm
-    - github
-    - email
+  - monkeytype
+  - last.fm
+  - github
+  - email
 - [ ] My setup
 - [ ] Guestbook (github)
 - [ ] Nav stuff
-    - header nav
-    - links to pages
-    - link to blog
-    - footer stuff too
+  - header nav
+  - links to pages
+  - link to blog
+  - footer stuff too
