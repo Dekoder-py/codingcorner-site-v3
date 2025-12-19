@@ -74,6 +74,14 @@ header {
   font-weight: 600;
 }
 
+header {
+  margin-bottom: 20px;
+}
+
+footer {
+  margin-top: 20px;
+}
+
 a {
   color: var(--ctp-blue);
 }
@@ -100,4 +108,8 @@ a:visited {
   margin: 4px;
   padding: 10px;
   max-width: 50vw;
+}
+
+.title {
+  margin: 0;
 }
