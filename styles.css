@@ -122,3 +122,16 @@ a:visited {
 .title {
   margin: 0;
 }
+
+.contacty {
+  border-radius: 30px;
+  border: 2px solid var(--ctp-lavender);
+  background-color: var(--ctp-surface-0);
+  margin: 4px;
+  padding: 10px;
+  max-width: 25vh;
+}
+
+:hover.contacty {
+  padding: 20px;
+}
