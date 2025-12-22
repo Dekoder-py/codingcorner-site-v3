@@ -15,10 +15,10 @@
 
 - [ ] Projects page
 - [ ] Contact page
-  - monkeytype
-  - last.fm
-  - github
-  - email
+  - [x] monkeytype
+  - [x] last.fm
+  - [ ] github
+  - [ ] email
 - [ ] My setup
 - [ ] Guestbook (github)
 - [ ] Nav stuff
