@@ -123,7 +123,7 @@ a:visited {
   margin: 0;
 }
 
-.contacty {
+.card {
   border-radius: 30px;
   border: 2px solid var(--ctp-lavender);
   background-color: var(--ctp-surface-0);
@@ -132,6 +132,6 @@ a:visited {
   max-width: 25vh;
 }
 
-:hover.contacty {
+:hover.card {
   padding: 20px;
 }
